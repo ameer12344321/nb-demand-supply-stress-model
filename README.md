@@ -87,7 +87,7 @@ notebooks/03_ipi_sensitivity.ipynb
 Filters IPI to series = abs, uses index_sa (seasonally adjusted), and performs correlation and lag checks.
 
 notebooks/04_forecasting.ipynb
-Forecasts electricity demand (consumption) and translates forecasts into stress signals under a baseline supply assumption.
+Forecasts electricity demand (consumption), validates forecast quality with out-of-sample backtesting (train through 2023-06, holdout from 2023-07 onward), compares against a naive baseline, and translates forward forecasts into stress signals under a baseline supply assumption.
 
 ## Indicators
 

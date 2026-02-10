@@ -11,6 +11,19 @@ This analysis validates cleaned monthly electricity demand, supply, and industri
 5. **Simple lagged linear model is explainable but limited**: coefficients on current and lagged IPI can be interpreted directionally, but out-of-sample accuracy is constrained by near-flat consumption dynamics and minimal volatility.
 6. **Baseline forecast implies persistent tightness**: with a conservative supply assumption of +1% above forecast consumption, projected stress ratio remains near 0.99 over the next six months.
 
+
+## Backtest validation
+- **Train period:** 2018-01-01 to 2023-06-01  
+- **Configured test window:** 2023-07-01 to 2024-11-30 (evaluated on available observations: 2023-07-01 to 2024-06-01)
+
+| Metric | Seasonal naive model | Last-value naive baseline |
+|---|---:|---:|
+| MAE | 803.358 | 518.322 |
+| RMSE | 880.657 | 674.690 |
+| MAPE (%) | 5.246 | 3.299 |
+
+The backtest shows that the seasonal-naive specification is transparent and captures broad monthly level behavior, but in the available holdout sample it underperforms a simpler last-value baseline on all three error metrics. This suggests trend/seasonality are weak relative to near-flat recent consumption, and that forecast skill is constrained by short history, low variance, and omitted exogenous drivers (e.g., weather and outages).
+
 ## Limitations
 - The stress metric is sensitive because the demand/supply ratio variance is very small; z-scores can spike on tiny absolute deviations.
 - Forecasting approach is intentionally simple (seasonal naive + fixed supply rule) and not policy-aware.

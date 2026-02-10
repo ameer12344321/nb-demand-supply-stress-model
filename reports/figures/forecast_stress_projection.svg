@@ -2,6 +2,7 @@
 <text x="550.0" y="24" text-anchor="middle" font-size="18" font-family="Arial">Projected Stress Ratio (forecast consumption / assumed supply)</text>
 <line x1="70" y1="50" x2="70" y2="350" stroke="#333"/>
 <line x1="70" y1="350" x2="1080" y2="350" stroke="#333"/>
+<text x="16" y="200.0" transform="rotate(-90 16,200.0)" font-size="12" font-family="Arial">ratio</text>
 <line x1="70" y1="350.0" x2="1080" y2="350.0" stroke="#eee"/>
 <text x="62" y="354.0" text-anchor="end" font-size="10" font-family="Arial">0.99</text>
 <line x1="70" y1="290.0" x2="1080" y2="290.0" stroke="#eee"/>

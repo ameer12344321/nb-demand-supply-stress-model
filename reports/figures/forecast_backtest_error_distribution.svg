@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420">
+<text x="550.0" y="24" text-anchor="middle" font-size="18" font-family="Arial">Backtest residual distribution</text>
+<line x1="70" y1="50" x2="70" y2="300" stroke="#333"/>
+<line x1="70" y1="300.0" x2="1080" y2="300.0" stroke="#333"/>
+<rect x="85.15" y="175.0" width="70.69999999999999" height="125.0" fill="#d62728" opacity="0.8"/>
+<text x="120.5" y="315" transform="rotate(45 120.5,315)" font-size="9" font-family="Arial">249.3..</text>
+<rect x="186.15" y="175.0" width="70.69999999999999" height="125.0" fill="#d62728" opacity="0.8"/>
+<text x="221.5" y="315" transform="rotate(45 221.5,315)" font-size="9" font-family="Arial">367.6..</text>
+<rect x="287.15" y="50.0" width="70.69999999999999" height="250.0" fill="#d62728" opacity="0.8"/>
+<text x="322.5" y="315" transform="rotate(45 322.5,315)" font-size="9" font-family="Arial">485.9..</text>
+<rect x="388.15" y="50.0" width="70.69999999999999" height="250.0" fill="#d62728" opacity="0.8"/>
+<text x="423.5" y="315" transform="rotate(45 423.5,315)" font-size="9" font-family="Arial">604.2..</text>
+<rect x="489.15" y="175.0" width="70.69999999999999" height="125.0" fill="#d62728" opacity="0.8"/>
+<text x="524.5" y="315" transform="rotate(45 524.5,315)" font-size="9" font-family="Arial">722.5..</text>
+<rect x="590.15" y="300.0" width="70.69999999999999" height="0.0" fill="#d62728" opacity="0.8"/>
+<text x="625.5" y="315" transform="rotate(45 625.5,315)" font-size="9" font-family="Arial">840.8..</text>
+<rect x="691.15" y="175.0" width="70.69999999999999" height="125.0" fill="#d62728" opacity="0.8"/>
+<text x="726.5" y="315" transform="rotate(45 726.5,315)" font-size="9" font-family="Arial">959.1..</text>
+<rect x="792.15" y="50.0" width="70.69999999999999" height="250.0" fill="#d62728" opacity="0.8"/>
+<text x="827.5" y="315" transform="rotate(45 827.5,315)" font-size="9" font-family="Arial">1077.3.</text>
+<rect x="893.15" y="175.0" width="70.69999999999999" height="125.0" fill="#d62728" opacity="0.8"/>
+<text x="928.5" y="315" transform="rotate(45 928.5,315)" font-size="9" font-family="Arial">1195.6.</text>
+<rect x="994.15" y="175.0" width="70.69999999999999" height="125.0" fill="#d62728" opacity="0.8"/>
+<text x="1029.5" y="315" transform="rotate(45 1029.5,315)" font-size="9" font-family="Arial">1313.9.</text>
+<text x="16" y="175.0" transform="rotate(-90 16,175.0)" font-size="12" font-family="Arial">Count</text>
+</svg>
