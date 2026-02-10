@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420">
+<text x="550.0" y="24" text-anchor="middle" font-size="18" font-family="Arial">Projected Stress Ratio (forecast consumption / assumed supply)</text>
+<line x1="70" y1="50" x2="70" y2="350" stroke="#333"/>
+<line x1="70" y1="350" x2="1080" y2="350" stroke="#333"/>
+<line x1="70" y1="350.0" x2="1080" y2="350.0" stroke="#eee"/>
+<text x="62" y="354.0" text-anchor="end" font-size="10" font-family="Arial">0.99</text>
+<line x1="70" y1="290.0" x2="1080" y2="290.0" stroke="#eee"/>
+<text x="62" y="294.0" text-anchor="end" font-size="10" font-family="Arial">1.19</text>
+<line x1="70" y1="230.00000000000003" x2="1080" y2="230.00000000000003" stroke="#eee"/>
+<text x="62" y="234.00000000000003" text-anchor="end" font-size="10" font-family="Arial">1.39</text>
+<line x1="70" y1="169.99999999999997" x2="1080" y2="169.99999999999997" stroke="#eee"/>
+<text x="62" y="173.99999999999997" text-anchor="end" font-size="10" font-family="Arial">1.59</text>
+<line x1="70" y1="109.99999999999999" x2="1080" y2="109.99999999999999" stroke="#eee"/>
+<text x="62" y="113.99999999999999" text-anchor="end" font-size="10" font-family="Arial">1.79</text>
+<line x1="70" y1="50.0" x2="1080" y2="50.0" stroke="#eee"/>
+<text x="62" y="54.0" text-anchor="end" font-size="10" font-family="Arial">1.99</text>
+<line x1="70.0" y1="350" x2="70.0" y2="355" stroke="#333"/>
+<text x="70.0" y="368" transform="rotate(45 70.0,368)" font-size="9" font-family="Arial">2024-07</text>
+<line x1="272.0" y1="350" x2="272.0" y2="355" stroke="#333"/>
+<text x="272.0" y="368" transform="rotate(45 272.0,368)" font-size="9" font-family="Arial">2024-08</text>
+<line x1="474.0" y1="350" x2="474.0" y2="355" stroke="#333"/>
+<text x="474.0" y="368" transform="rotate(45 474.0,368)" font-size="9" font-family="Arial">2024-09</text>
+<line x1="676.0" y1="350" x2="676.0" y2="355" stroke="#333"/>
+<text x="676.0" y="368" transform="rotate(45 676.0,368)" font-size="9" font-family="Arial">2024-10</text>
+<line x1="878.0" y1="350" x2="878.0" y2="355" stroke="#333"/>
+<text x="878.0" y="368" transform="rotate(45 878.0,368)" font-size="9" font-family="Arial">2024-11</text>
+<line x1="1080.0" y1="350" x2="1080.0" y2="355" stroke="#333"/>
+<text x="1080.0" y="368" transform="rotate(45 1080.0,368)" font-size="9" font-family="Arial">2024-12</text>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="70.0,350.0 272.0,350.0 474.0,350.0 676.0,350.0 878.0,350.0 1080.0,350.0"/>
+<rect x="910" y="40" width="10" height="10" fill="#1f77b4"/>
+<text x="926" y="50" font-size="11" font-family="Arial">projected_stress_ratio</text>
+</svg>

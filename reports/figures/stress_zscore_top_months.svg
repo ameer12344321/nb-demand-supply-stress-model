@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420">
+<text x="550.0" y="24" text-anchor="middle" font-size="18" font-family="Arial">Top 15 Stress Months (z-score)</text>
+<line x1="70" y1="50" x2="70" y2="300" stroke="#333"/>
+<line x1="70" y1="297.2940004307262" x2="1080" y2="297.2940004307262" stroke="#333"/>
+<rect x="80.1" y="50.0" width="47.133333333333326" height="247.29400043072621" fill="#d62728" opacity="0.8"/>
+<text x="103.66666666666666" y="315" transform="rotate(45 103.66666666666666,315)" font-size="9" font-family="Arial">2024-02</text>
+<rect x="147.4333333333333" y="297.0413093924367" width="47.133333333333326" height="0.25269103828952666" fill="#d62728" opacity="0.8"/>
+<text x="170.99999999999997" y="315" transform="rotate(45 170.99999999999997,315)" font-size="9" font-family="Arial">2023-04</text>
+<rect x="214.76666666666665" y="297.2940004307262" width="47.133333333333326" height="0.21114382978299773" fill="#1f77b4" opacity="0.8"/>
+<text x="238.33333333333331" y="315" transform="rotate(45 238.33333333333331,315)" font-size="9" font-family="Arial">2023-06</text>
+<rect x="282.1" y="297.2940004307262" width="47.133333333333326" height="2.7059995687409355" fill="#1f77b4" opacity="0.8"/>
+<text x="305.6666666666667" y="315" transform="rotate(45 305.6666666666667,315)" font-size="9" font-family="Arial">2020-12</text>
+<rect x="349.43333333333334" y="297.2940004307262" width="47.133333333333326" height="2.7059995690073606" fill="#1f77b4" opacity="0.8"/>
+<text x="373.0" y="315" transform="rotate(45 373.0,315)" font-size="9" font-family="Arial">2020-02</text>
+<rect x="416.76666666666665" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="440.3333333333333" y="315" transform="rotate(45 440.3333333333333,315)" font-size="9" font-family="Arial">2018-01</text>
+<rect x="484.1" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="507.6666666666667" y="315" transform="rotate(45 507.6666666666667,315)" font-size="9" font-family="Arial">2018-02</text>
+<rect x="551.4333333333333" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="575.0" y="315" transform="rotate(45 575.0,315)" font-size="9" font-family="Arial">2018-03</text>
+<rect x="618.7666666666667" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="642.3333333333333" y="315" transform="rotate(45 642.3333333333333,315)" font-size="9" font-family="Arial">2018-04</text>
+<rect x="686.1" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="709.6666666666667" y="315" transform="rotate(45 709.6666666666667,315)" font-size="9" font-family="Arial">2018-05</text>
+<rect x="753.4333333333333" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="777.0" y="315" transform="rotate(45 777.0,315)" font-size="9" font-family="Arial">2018-06</text>
+<rect x="820.7666666666667" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="844.3333333333333" y="315" transform="rotate(45 844.3333333333333,315)" font-size="9" font-family="Arial">2018-07</text>
+<rect x="888.1" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="911.6666666666667" y="315" transform="rotate(45 911.6666666666667,315)" font-size="9" font-family="Arial">2018-08</text>
+<rect x="955.4333333333333" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="979.0" y="315" transform="rotate(45 979.0,315)" font-size="9" font-family="Arial">2018-09</text>
+<rect x="1022.7666666666667" y="297.2940004307262" width="47.133333333333326" height="2.7059995692737857" fill="#1f77b4" opacity="0.8"/>
+<text x="1046.3333333333333" y="315" transform="rotate(45 1046.3333333333333,315)" font-size="9" font-family="Arial">2018-10</text>
+</svg>
